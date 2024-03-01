@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 29 Feb 2024 pada 16.49
+-- Waktu pembuatan: 29 Feb 2024 pada 18.09
 -- Versi server: 10.4.28-MariaDB
 -- Versi PHP: 8.2.4
 
@@ -42,7 +42,7 @@ CREATE TABLE `mahasiswa` (
 INSERT INTO `mahasiswa` (`id`, `nama`, `nim`, `jurusan`, `created_at`) VALUES
 (1, 'Yanto', '390920192', 'Bahasa Jerman', '2024-02-29 09:50:10'),
 (2, 'Dio', '662537', 'Bahasa Jerman', '2024-02-29 09:54:33'),
-(3, '[value-2]', '[value-3]', '[value-4]', '0000-00-00 00:00:00');
+(3, 'Tio', '7283748', 'Bahasa Jepang', '2024-02-29 16:34:16');
 
 --
 -- Indexes for dumped tables
